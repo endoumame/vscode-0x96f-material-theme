@@ -1,0 +1,7 @@
+.vscode/**
+docs/**
+.vscode-test/**
+.git/**
+.gitignore
+.gitattributes
+CHANGELOG.md

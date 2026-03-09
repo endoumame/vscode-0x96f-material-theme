@@ -1,0 +1,28 @@
+{
+  "name": "0x96f-material-theme",
+  "displayName": "0x96f Material Theme",
+  "description": "A Visual Studio Code theme based on the 0x96f color palette, inspired by Material Design.",
+  "version": "0.0.1",
+  "publisher": "endou-mame",
+  "author": "kakiuchi-shigenao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/endou-mame/vscode-0x96f-material-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "0x96f Material Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/0x96f-material-theme.json"
+      }
+    ]
+  }
+}
